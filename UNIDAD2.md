@@ -52,7 +52,7 @@ Nos encontramos desarrollando la tercera unidad académica, enfocada en las estr
 # 🧭 Navegación del Portafolio
 Selecciona un módulo para acceder a sus archivos y evidencias específicas:
 
-* 🌿 **[Archivo de Teoría de Grafos](./grafos.md)** — *Modelado de redes, matrices de adyacencia y algoritmos de optimización.*
+* 🌿 **[Archivo de Teoría de Grafos](./TEORÍA_DE_GRAFOS.md)** — *Modelado de redes, matrices de adyacencia y algoritmos de optimización.*
 * 🌳 **[Archivo de Árboles Lógicos](./arboles.md)** — *Estructuras jerárquicas, árboles de decisión y búsquedas.*
 
 *Última actualización de la estructura: Julio 2026*
