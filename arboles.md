@@ -1,4 +1,4 @@
-# Resumen: Árboles en Teoría de Grafos y Estructuras de Datos
+# Teoría de Grafos 
 
 ## 1. Definiciones Fundamentales
 Un **árbol** es un grafo conexo y acíclico.
