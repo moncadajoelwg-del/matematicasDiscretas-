@@ -341,3 +341,24 @@ graph TD
     style Step3 fill:#e8f4fd,stroke:#007bff,stroke-width:2px
     style Bucle fill:#f8f9fa,stroke:#6c757d,stroke-width:1px,stroke-dasharray: 5 5
 ```
+---
+## 🛠️ Portafolio de Evidencias: Aplicación Práctica de Árboles 
+
+Este apartado consolida el registro de las actividades prácticas, experimentales y autónomas desarrolladas durante el periodo académico en la asignatura de Matemáticas Discretas, evidenciando el dominio de la teoría de redes.
+
+### 🗣️ 1. Componente ACD (Aprendizaje en Contacto con el Docente)
+Actividades de sustentación, defensa oral de algoritmos y talleres evaluados directamente por el docente en el aula de clase.
+
+### **[[Ver Anexo de Evidencias ACD (Google Drive)](https://drive.google.com/file/d/1NKiRL1j69vhgDJOBi51B1QERwMDbgqKS/view?usp=drive_link)]**
+---
+
+### 🧪 2. Componente APE (Aprendizaje Práctico-Experimental)
+Resolución de problemas de aplicación práctica y experimentación guiada para afianzar los conceptos de la unidad.
+### **[[Ver Anexo de Evidencias APE (Google Drive)](https://drive.google.com/file/d/1WzvZxiSU1S0dxQh8eG6xpxblI0tVM0-q/view?usp=drive_link)]**
+
+---
+
+### 📝 3. Componente AA (Aprendizaje Autónomo)
+Trabajos de investigación individual y resolución de bancos de problemas desarrollados de forma independiente.
+
+### **[[Ver Anexo de Evidencias AA (Google Drive)](https://drive.google.com/file/d/19eXYlnZPGy06rBJ35N3-s1Y5TXp_a2k-/view?usp=drive_link))]**
