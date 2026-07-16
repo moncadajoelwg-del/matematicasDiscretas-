@@ -1,4 +1,21 @@
-# TEORÍA DE GRAFOS 
+<p align="center">
+  <ins><b>💻 ALGORITHMS & DATA STRUCTURES</b></ins>
+</p>
+
+<h1 align="center">
+  🌐 SECCIÓN I: EXPLORACIÓN DE TEORÍA DE GRAFOS 
+</h1>
+
+<p align="center">
+  <code>🧬 Dominando los algoritmos de búsqueda en profundidad y amplitud 🧬</code>
+</p>
+
+<blockquote>
+  <p align="center"><b>"En la teoría de grafos, ningún nodo se queda atrás. Cada camino cuenta una historia."</b></p>
+</blockquote>
+
+---
+
 
 ## 1. Anatomía y Representación de un Grafo
 Un **grafo conecta vértices (nodos) mediante aristas (arcos)** para modelar redes y relaciones.
