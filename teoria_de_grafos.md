@@ -344,3 +344,26 @@ graph TD
     Condition -->|No| Neighbors
     Update --> Neighbors
 ```
+---
+---
+
+## 🛠️ Portafolio de Evidencias: Aplicación Práctica de Grafos
+
+Este apartado consolida el registro de las actividades prácticas, experimentales y autónomas desarrolladas durante el periodo académico en la asignatura de Matemáticas Discretas, evidenciando el dominio de la teoría de redes.
+
+### 🗣️ 1. Componente ACD (Aprendizaje en Contacto con el Docente)
+Actividades de sustentación, defensa oral de algoritmos y talleres evaluados directamente por el docente en el aula de clase.
+
+### **[[Ver Anexo de Evidencias ACD (Google Drive)](https://drive.google.com/drive/folders/1aealLI-3X5CfW4aXvX3w6P1LhF1_UCdP?usp=drive_link)]**
+---
+
+### 🧪 2. Componente APE (Aprendizaje Práctico-Experimental)
+Resolución de problemas de aplicación práctica y experimentación guiada para afianzar los conceptos de la unidad.
+### **[[Ver Anexo de Evidencias APE (Google Drive)](https://drive.google.com/file/d/1PFhss0oNnzJ-ke0ivNAFkKTM8WBmW_fl/view?usp=drive_link)]**
+
+---
+
+### 📝 3. Componente AA (Aprendizaje Autónomo)
+Trabajos de investigación individual y resolución de bancos de problemas desarrollados de forma independiente.
+
+### **[[Ver Anexo de Evidencias AA (Google Drive)](https://drive.google.com/drive/folders/1CmSQdFvxGMDTbyjSQ9BxKOvArl7nofpB?usp=drive_link)]**
