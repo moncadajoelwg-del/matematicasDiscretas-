@@ -1,4 +1,21 @@
-# Teoría de Grafos 
+<p align="center">
+  <ins><b>💻 ALGORITHMS & DATA STRUCTURES</b></ins>
+</p>
+
+<h1 align="center">
+  🌳 SECCIÓN II: LA ARQUITECTURA DE LOS ÁRBOLES
+</h1>
+
+<p align="center">
+  <code>🧬 Dominando las estructuras conexas, acíclicas y sus ramificaciones 🧬</code>
+</p>
+
+<blockquote>
+  <p align="center"><b>"Un árbol es la armonía perfecta del grafo: sin ciclos, sin retornos, donde cada nodo encuentra su único camino hacia la raíz."</b></p>
+</blockquote>
+
+---
+
 
 ## 1. Definiciones Fundamentales
 Un **árbol** es un grafo conexo y acíclico.
