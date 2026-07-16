@@ -384,3 +384,19 @@ Resolución de problemas de aplicación práctica y experimentación guiada para
 Trabajos de investigación individual y resolución de bancos de problemas desarrollados de forma independiente.
 
 ### **[[Ver Anexo de Evidencias AA (Google Drive)](https://drive.google.com/drive/folders/1CmSQdFvxGMDTbyjSQ9BxKOvArl7nofpB?usp=drive_link)]**
+---
+
+
+<br>
+<div align="center">
+  <!-- Botón Volver a Portada -->
+  <a href="MATE-DISCRETAS.md">
+    <img src="https://shields.io⏮️_VOLVER_A_PORTADA-Regresar_a_Mate_Discretas-21262d?style=for-the-badge&labelColor=30363d&color=58a6ff" alt="Volver a Portada">
+  </a>
+  &nbsp;&nbsp;
+  <!-- Botón Siguiente Tema -->
+  <a href="arboles.md">
+    <img src="https://shields.ioAVANZAR_A_TEMA:_ÁRBOLES_⏭️-Sección_II:_Estructuras_Acíclicas-1f2c20?style=for-the-badge&labelColor=2ea44f&color=56d364" alt="Siguiente Tema">
+  </a>
+</div>
+<br>
