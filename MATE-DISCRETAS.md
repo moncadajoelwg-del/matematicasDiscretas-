@@ -28,9 +28,8 @@
 
 # 🧭 Navegación del Portafolio
 Selecciona un módulo para acceder a sus archivos y evidencias específicas:
-
-* 🌿 **[Archivo de Teoría de Grafos](./TEORÍA_DE_GRAFOS.md)** — *Modelado de redes, matrices de adyacencia y algoritmos de optimización.*
-* 🌳 **[Archivo de Árboles Lógicos](./árboles.md)** — *Estructuras jerárquicas, árboles de decisión y búsquedas.*
+* 🗂️ [Archivo de Teoría de Gráficos](TEORÍA_DE_GRAFOS.md) — Modelado de redes, matrices de adyacencia y algoritmos de optimización.
+* 🌳 [Archivo de Árboles Lógicos](árboles.md) — Estructuras jerárquicas, árboles de decisión y búsquedas.
 
 
 
