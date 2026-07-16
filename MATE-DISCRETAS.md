@@ -4,7 +4,8 @@
 
 ---
 
-# 📚 Portafolio Académico: Matemáticas Discretas
+# 📚 Portafolio Académico de Matemáticas Discretas: Teoría de Grafos y Árboles
+
 
 ### 👤 Información General y del Módulo
 
@@ -25,35 +26,11 @@
 
 ---
 
-# 🎯 UNIDAD 3: Teoría de Grafos y Árboles
-
-Nos encontramos desarrollando la tercera unidad académica, enfocada en las estructuras fundamentales para el modelado de redes, optimización de caminos y el desarrollo de estructuras lógicas aplicadas a la Inteligencia Artificial.
-
-### 🗂️ Componentes y Evidencias de Aprendizaje:
-
-* 🟦 **Aprendizaje en Contacto con el Docente (ACD)**
-  * [ ] Apuntes de clase sobre estructuras de datos no lineales.
-  * [ ] Fundamentos teóricos de grafos dirigidos y no dirigidos.
-  * [ ] Propiedades y teoremas fundamentales de árboles lógicos.
-
-* 🟩 **Aprendizaje Práctico-Experimental (APE)**
-  * [ ] Talleres en clase de representación matricial de grafos.
-  * [ ] Resolución de problemas de optimización de rutas mínimas.
-  * [ ] Implementación de arreglos multidimensionales en lenguaje C.
-
-* 🟧 **Aprendizaje Autónomo (AA)**
-  * [ ] Tarea de investigación: Árboles de decisión en Machine Learning.
-  * [ ] Resolución de guías de ejercicios prácticos individuales.
-  * [ ] Preparación y cuestionarios para la evaluación de la unidad.
-  
-
----
-
 # 🧭 Navegación del Portafolio
 Selecciona un módulo para acceder a sus archivos y evidencias específicas:
 
 * 🌿 **[Archivo de Teoría de Grafos](./TEORÍA_DE_GRAFOS.md)** — *Modelado de redes, matrices de adyacencia y algoritmos de optimización.*
-* 🌳 **[Archivo de Árboles Lógicos](./arboles.md)** — *Estructuras jerárquicas, árboles de decisión y búsquedas.*
+* 🌳 **[Archivo de Árboles Lógicos](./árboles.md)** — *Estructuras jerárquicas, árboles de decisión y búsquedas.*
 
-*Última actualización de la estructura: Julio 2026*
+
 
