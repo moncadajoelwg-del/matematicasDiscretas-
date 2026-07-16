@@ -379,3 +379,19 @@ Resolución de problemas de aplicación práctica y experimentación guiada para
 Trabajos de investigación individual y resolución de bancos de problemas desarrollados de forma independiente.
 
 ### **[[Ver Anexo de Evidencias AA (Google Drive)](https://drive.google.com/file/d/19eXYlnZPGy06rBJ35N3-s1Y5TXp_a2k-/view?usp=drive_link))]**
+<br><br>
+<hr>
+<br>
+<div align="center">
+  <!-- Botón Regresar a Grafos -->
+  <a href="teoria_de_grafos.md">
+    <img src="https://shields.io⏮️_RETROCEDER_A_GRAFOS-Sección_I:_Teorías_y_Fundamentos-14243a?style=for-the-badge&labelColor=388bfd&color=58a6ff" alt="Regresar a Grafos">
+  </a>
+  &nbsp;&nbsp;
+  <!-- Botón Inicio Portada -->
+  <a href="MATE-DISCRETAS.md">
+    <img src="https://shields.io🏠_INICIO:_PORTADA_PRINCIPAL-Índice_General-21262d?style=for-the-badge&labelColor=30363d&color=8b949e" alt="Inicio Portada">
+  </a>
+</div>
+<br>
+
